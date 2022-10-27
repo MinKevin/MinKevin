@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![alswkdrb1's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswkdrb1)
+
+## Tech Stacks
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+## Projects
+<!--
+* **[hello](https://github.com/angrydeveloper/hello)**
+-->
+
 <!--
 **alswkdrb1/alswkdrb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
